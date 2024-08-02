@@ -15,7 +15,7 @@ Para mais informações, visite o [site oficial da AWS](https://aws.amazon.com/)
 ## Sumário
 
 ### Serviços
-- [IAM - Identity and Access Management](./services/iam.md)
+- [IAM - Identity and Access Management](./services/iam/about.md)
 
 ### Conceitos
 - [Zonas de disponibilidade](./concepts/availability-zones.md)

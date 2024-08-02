@@ -76,3 +76,9 @@ AWS Identity and Access Management (IAM) é um serviço da AWS que permite geren
 ---
 
 Este guia fornece uma introdução ao uso básico do IAM. Para informações mais detalhadas, consulte a [Documentação Oficial da AWS](https://docs.aws.amazon.com/IAM/latest/UserGuide/introduction.html).
+
+
+## Relacionado à AWS Identity and Access Management (IAM)
+   - [AWS Organizations](./aws-organizations.md)
+   - [Aws Identity Center](./aws-identity-center.md)
+   - [Aws Credential Report e Aws Access Advasory ](./aws-credential-report.md)
